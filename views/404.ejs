@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Page not found</title>
 </head>
-<body class="bg-gray-900">
+<body class="bg-yellow-100">
     <nav>
         <div class="container flex flex-wrap items-center justify-between mx-auto">
           <a href="/" class="py-2 px-4 flex items-center">
@@ -20,7 +20,7 @@
             <div>
                 <% if (messages && messages.error && messages.error.length > 0) { %>
                     <% for(var i=0; i<messages.error.length; i++) { %>
-                        <p class="bg-gray-600 text-white my-3 list-none rounded-md px-4 py-2"><%= messages.error[i] %></p>
+                        <p class="bg-black-200 text-white my-3 list-none rounded-md px-4 py-2"><%= messages.error[i] %></p>
                     <% } %>
                 <% } %>
             </div>

@@ -30,7 +30,7 @@
       <div>
         <% if (messages && messages.error && messages.error.length> 0) { %>
           <% for(var i=0; i<messages.error.length; i++) { %>
-            <p class="bg-gray-600 my-3 text-white list-none rounded-md px-4 py-2">
+            <p class="bg-black-600 my-3 text-white list-none rounded-md px-4 py-2">
               <%= messages.error[i] %>
             </p>
             <% } %>
@@ -42,8 +42,8 @@
         </span>
         <div class="flex py-3 justify-between">
           <div class="flex flex-col justify-evenly">
-            <span class="text-4xl font-semibold text-gray-200">Voting status:</span>
-            <div class="flex flex-col text-gray-400">
+            <span class="text-4xl font-semibold text-black-200">Voting status:</span>
+            <div class="flex flex-col text-black-400">
               <span class="text-3xl ">Total voters: <%= totalVoters %></span>
               <span class="text-3xl ">Voters completed: <%= noOfVoted %></span>
               <span class="text-3xl ">Voters pending: <%= noOfVotePending %></span>
@@ -85,16 +85,16 @@
           </script>
         </div>
         <ol class="list-decimal mb-5 py-5 text-3xl">
-          <p class="text-4xl font-semibold text-gray-200 mb-4">Votes recieved:</p>
+          <p class="text-4xl font-semibold text-black-200 mb-4">Votes recieved:</p>
           <% for(let i=0; i<questions.length; i++) { %>
-            <li class="my-4 bg-gray-800 rounded-md border border-white ">
+            <li class="my-4 bg-black-800 rounded-md border border-white ">
               <div class="flex justify-between my-3 items-center">
                 <div class="pl-4 py-1 divide-y">
                   <div>
                     <h3 class="text-3xl  font-semibold">
                       <%= questions[i].question %>
                     </h3>
-                    <p class="text-lg  text-gray-400">
+                    <p class="text-lg  text-black-400">
                       <%= questions[i].description %>
                     </p>
                   </div>
@@ -109,7 +109,7 @@
                                 d="M16.5 18.75h-9m9 0a3 3 0 013 3h-15a3 3 0 013-3m9 0v-3.375c0-.621-.503-1.125-1.125-1.125h-.871M7.5 18.75v-3.375c0-.621.504-1.125 1.125-1.125h.872m5.007 0H9.497m5.007 0a7.454 7.454 0 01-.982-3.172M9.497 14.25a7.454 7.454 0 00.981-3.172M5.25 4.236c-.982.143-1.954.317-2.916.52A6.003 6.003 0 007.73 9.728M5.25 4.236V4.5c0 2.108.966 3.99 2.48 5.228M5.25 4.236V2.721C7.456 2.41 9.71 2.25 12 2.25c2.291 0 4.545.16 6.75.47v1.516M7.73 9.728a6.726 6.726 0 002.748 1.35m8.272-6.842V4.5c0 2.108-.966 3.99-2.48 5.228m2.48-5.492a46.32 46.32 0 012.916.52 6.003 6.003 0 01-5.395 4.972m0 0a6.726 6.726 0 01-2.749 1.35m0 0a6.772 6.772 0 01-3.044 0" />
                             </svg>
                             <% } %>
-                              <label class=" col-start-2 col-span-4 text-xl text-gray-400"><span class="text-white">
+                              <label class=" col-start-2 col-span-4 text-xl text-black-400"><span class="text-white">
                                   <%= options[i][j].option %>
                                 </span> got <span class="text-white">
                                   <%= optionsCount[i][j] %>
