@@ -17,3 +17,15 @@ Voter: A user who wants to participate in an election.
 ----->Admin can able to end the elections and change the password of admin and voters also.
 ## Screenshots
 
+![Screenshot 1](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(190).png)
+![Screenshot 2](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(191).png)
+![Screenshot 3](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(192).png)
+![Screenshot 4](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(193).png)
+![Screenshot 5](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(194).png)
+![Screenshot 6](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(195).png)
+![Screenshot 7](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(196).png)
+![Screenshot 8](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(197).png)
+![Screenshot 9](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(198).png)
+![Screenshot 10](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(199).png)
+![Screenshot 11](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(200).png)
+![Screenshot 12](https://github.com/1234qwer926/vote/tree/main/screenshots/Screenshot%20(201).png)
