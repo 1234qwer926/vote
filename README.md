@@ -1,6 +1,6 @@
 # Online voting Application
 
-[https://raw.vote-0tho.onrender.com](https://raw.vote-0tho.onrender.com)  
+[https://vote-0tho.onrender.com](https://vote-0tho.onrender.com)  
   
 There are two personas in our voting platform:
 
@@ -8,7 +8,7 @@ Election Administrator: A person who sets up an election.
 Voter: A user who wants to participate in an election.
 
 ## Demonstration video
-[https://raw.www.loom.com/share/6e25f443e2dc4c9799c65546fcb3dc37](https://raw.www.loom.com/share/6e25f443e2dc4c9799c65546fcb3dc37)
+[https://www.loom.com/share/6e25f443e2dc4c9799c65546fcb3dc37](https://www.loom.com/share/6e25f443e2dc4c9799c65546fcb3dc37)
 
 ## Features
 
